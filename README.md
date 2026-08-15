@@ -281,6 +281,3 @@ gh stack view
 gh stack submit
 ```
 
-## Recording Tip
-
-Record the local PowerShell demo first. Then switch to the HTML presentation for the GitHub PR screen checks.
